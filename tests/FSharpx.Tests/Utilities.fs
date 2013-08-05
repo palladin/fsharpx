@@ -1,6 +1,6 @@
 ﻿// First version copied from the F# Power Pack 
 // https://raw.github.com/fsharp/powerpack/master/src/FSharp.PowerPack.Unittests/Utilities.fs
-
+// NPAL comment
 namespace FSharpx.Tests
 open NUnit.Framework
 open System
